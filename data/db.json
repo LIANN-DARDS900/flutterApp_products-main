@@ -1,0 +1,42 @@
+{
+  "categories": [
+    
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "BackPack",
+      "price": 1000,
+      "promotion": false,
+      "stars": 5,
+      "image": "images/backpack.png",
+      "description": "good good1"
+    },
+    {
+      "id": 2,
+      "name": "BackPack",
+      "price": 1000,
+      "promotion": false,
+      "stars": 2,
+      "image": "images/backpack.png",
+      "description": "good good2"
+    },
+    {
+      "id": 3,
+      "name": "BackPackp",
+      "price": 1000,
+      "promotion": true,
+      "stars": 4,
+      "image": "images/backpack.png",
+      "description": "good good3"
+    },    {
+      "id": 4,
+      "name": "BackPackpp",
+      "price": 1000,
+      "promotion": true,
+      "stars": 3,
+      "image": "images/backpack.png",
+      "description": "good good4"
+    }
+  ]
+}
